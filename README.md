@@ -1,1 +1,3 @@
-# Algerian_forest_fires_
+Algerian Forest Fire Prediction using ElasticNetCV
+
+This machine learning model predicts the likelihood or intensity of forest fires in Algeria based on meteorological and environmental features. It uses the ElasticNetCV algorithm, a regularized linear regression technique that combines L1 (Lasso) and L2 (Ridge) penalties. ElasticNetCV automatically selects the best regularization parameters using cross-validation, helping prevent overfitting and handle correlated features. The model is trained on historical data including temperature, humidity, wind speed, and rainfall, making it effective for early forest fire warning systems.
